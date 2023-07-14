@@ -47,13 +47,13 @@ const readMore = more.repeat(4001)
 global.sig = 'https://instagram.com/xf.frdycoolzz'
 global.tautanwa = 'https://wa.me/62823504965328'
 global.sgh = 'https://github.com/FerdiFrmnsyh' //github
-global.sgc = 'https://chat.whatsapp.com/DpdTsFNBpV1B8zGQqxAu4N'  //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/F6v2DmVhgs955sf0tYZMdU'  //group whatsapp
 global.sdc = '-' //discord
 global.linkyt = '-'
 global.syt = '-'
 global.sfb = '-'// facebook
-global.snh = 'https://chat.whatsapp.com/DpdTsFNBpV1B8zGQqxAu4N'
-global.media = 'https://telegra.ph/file/f6616dd133bd491739bf6.jpg'
+global.snh = 'https://chat.whatsapp.com/F6v2DmVhgs955sf0tYZMdU'
+global.media = 'https://www.dd.ci/file/f08adf158949e2b0b2183.jpg'
 global.wame = 'https://wa.me/62823504965328'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [['62823504965328', 'ғᴇʀᴅɪ ғɪʀᴍᴀɴsʏᴀʜ', true]]
@@ -107,7 +107,7 @@ global.islamic = `${dateIslamic}`
 global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.intro = 'https://telegra.ph/file/f6616dd133bd491739bf6.jpg'
+global.intro = 'https://www.dd.ci/file/f08adf158949e2b0b2183.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -307,8 +307,8 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/f6616dd133bd491739bf6.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/88120afb2dcd5e71910bf.jpg' //ini juga ganti 
+global.fotonya1 = 'https://www.dd.ci/file/f08adf158949e2b0b2183.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://www.dd.ci/file/f08adf158949e2b0b2183.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
